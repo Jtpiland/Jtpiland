@@ -40,7 +40,7 @@ I'm a passionate craft beer brewer turned software developer. I love working wit
 
 [![Solidity Badge][solidity-badge]]
 [![AWS badge][aws-badge]]
-![GraphQL badge][graphgl-badge]()
+[]\![GraphQL badge][graphgl-badge]()]
 
 
 ![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jtpiland&show_icons=true)
