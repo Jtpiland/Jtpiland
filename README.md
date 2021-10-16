@@ -24,7 +24,7 @@ I'm a passionate craft beer brewer turned software developer. I love working wit
 
 ## Languages:
 
-[![Ruby][ruby-badge]]
+[![Ruby][ruby-badge]](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 ##Frameworks:
 
