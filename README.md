@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jacob! ✌️
 
 <!--
 **Jtpiland/Jtpiland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey I'm Jacob! ✌️
 
-I'a passionate craft beer brewer turned software developer. I love working with new people and new technologies to create useful elegant solutions.
+I'm a passionate craft beer brewer turned software developer. I love working with new people and new technologies to create useful elegant solutions.
 
 Contact Me:
 
 - [![LinkedIn: jacob-piland][linkedin-badge]][LinkedIn]
 - [![Email: piland.jacob@gmail.com][gmail-badge]][gmail]
+
+
+[![LinkedIn: scott-borecki][linkedin-badge]][LinkedIn]
+[![Email: scottborecki@gmail.com][gmail-badge]][gmail]
