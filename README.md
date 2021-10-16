@@ -19,8 +19,8 @@ I'm a passionate craft beer brewer turned software developer. I love working wit
 
 Contact Me:
 
-![LinkedIn: jacob-piland][linkedin-badge][LinkedIn]
+![LinkedIn: jacob-piland][https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white][LinkedIn]
 ![Email: piland.jacob@gmail.com][gmail-badge][gmail]
 
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Jtpiland&show_icons=true)
+![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jtpiland&show_icons=true)
