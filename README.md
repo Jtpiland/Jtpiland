@@ -19,8 +19,8 @@ I'm a passionate craft beer brewer turned software developer. I love working wit
 
 ## Contact Me:
 
-[![LinkedIn Badge][linkedin-badge]](https://www.linkedin.com/in/jacob-piland/)
-[![Gmail Badge][gmail-badge]](mailto:piland.jacob@gmail.com)
+[![LinkedIn Badge][ https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8]](https://www.linkedin.com/in/jacob-piland/)
+[![Gmail Badge][https://img.shields.io/badge/-piland.jacob@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piland.jacob@gmail.com]](mailto:piland.jacob@gmail.com)
 
 ## Languages:
 
@@ -28,25 +28,25 @@ I'm a passionate craft beer brewer turned software developer. I love working wit
 
 ##Frameworks:
 
-[![RubyOnRails][https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white]]
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 
 ## Tools:
 
-[![Git][https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white]]
-[![Postman][https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white]]
-[![TravicCI][https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white ]]
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+[<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white"/>
 
 ## 🔭 Learning:
 
-[![Solidity][https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black]]
-[![AWS][https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white]]
-[![GraphQL][https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=whitee]]
+<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=whitee"/>
 
 
 ![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jtpiland&show_icons=true)
 
 
-
+<!--
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8
 [gmail-badge]: https://img.shields.io/badge/-piland.jacob@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piland.jacob@gmail.com
 
@@ -66,4 +66,5 @@ Frameworks:
 [ruby-on-rails-badge]: 	https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white
 [aws-badge]: https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
 [travis-ci-badge]: https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white 
+-->
 
