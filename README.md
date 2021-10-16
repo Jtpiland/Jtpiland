@@ -20,5 +20,5 @@ I'a passionate craft beer brewer turned software developer. I love working with 
 
 Contact Me:
 
-[![LinkedIn: jacob-piland][linkedin-badge]][LinkedIn]
-[![Email: piland.jacob@gmail.com][gmail-badge]][gmail]
+- [![LinkedIn: jacob-piland][linkedin-badge]][LinkedIn]
+- [![Email: piland.jacob@gmail.com][gmail-badge]][gmail]
