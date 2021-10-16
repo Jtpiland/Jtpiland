@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Jacob Piland, a passionate craft beer brewer turned software developer. I love working with new people and new technologies to create useful and elgant solutions.
+Hey I'm Jacob! ✌️
+
+I'a passionate craft beer brewer turned software developer. I love working with new people and new technologies to create useful elegant solutions.
+
+Contact Me:
+
+[![LinkedIn: jacob-piland][linkedin-badge]][LinkedIn]
+[![Email: piland.jacob@gmail.com][gmail-badge]][gmail]
