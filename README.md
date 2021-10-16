@@ -24,23 +24,23 @@ I'm a passionate craft beer brewer turned software developer. I love working wit
 
 ## Languages:
 
-[![Ruby Badge][ruby-badge]]
+[![Ruby][ruby-badge]]
 
 ##Frameworks:
 
-[![Ruby On Rails Badge][ruby-on-rails-badge]]
+[![RubyOnRails][ruby-on-rails-badge]]
 
 ## Tools:
 
-[![Git Badge][git-badge]]
-[![Postman Badge][postman-badge]]
-[![Travic CI Badge][travis-ci-badge]]
+[![Gite][git-badge]]
+[![Postman][postman-badge]]
+[![TravicCI][travis-ci-badge]]
 
 ## 🔭 Learning:
 
-[![Solidity Badge][solidity-badge]]
-[![AWS badge][aws-badge]]
-[]\![GraphQL badge][graphgl-badge]()]
+[![Solidity][solidity-badge]]
+[![AWS][aws-badge]]
+[]\![GraphQL][graphgl-badge]()]
 
 
 ![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jtpiland&show_icons=true)
