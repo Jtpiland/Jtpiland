@@ -46,7 +46,7 @@ I'm a passionate craft beer brewer turned software developer. I love working wit
 ![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jtpiland&show_icons=true)
 
 
-<!-- 
+
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8
 [gmail-badge]: https://img.shields.io/badge/-piland.jacob@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piland.jacob@gmail.com
 
@@ -66,4 +66,4 @@ Frameworks:
 [ruby-on-rails-badge]: 	https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white
 [aws-badge]: https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
 [travis-ci-badge]: https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white 
--->
+
