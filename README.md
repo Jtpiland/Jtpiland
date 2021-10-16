@@ -57,7 +57,7 @@ Languages:
 [json-badge]:https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white
 
 Database:
-[postgresgl-badge]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+[postgresgl-badge]: https://img.shields.io/badge/PostgreSQL-345d3c.svg?&style=for-the-badge&logo=postgresql&logoColor=white
 
 Frameworks: 
 [graphql-badge]: https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white
