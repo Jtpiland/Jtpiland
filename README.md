@@ -24,23 +24,23 @@ I'm a passionate craft beer brewer turned software developer. I love working wit
 
 ## Languages:
 
-[![Ruby][ruby-badge]](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+[![Ruby][https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white]
 
 ##Frameworks:
 
-[![RubyOnRails][ruby-on-rails-badge]]
+[![RubyOnRails][https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white]]
 
 ## Tools:
 
-[![Gite][git-badge]]
-[![Postman][postman-badge]]
-[![TravicCI][travis-ci-badge]]
+[![Git][https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white]]
+[![Postman][https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white]]
+[![TravicCI][https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white ]]
 
 ## 🔭 Learning:
 
-[![Solidity][solidity-badge]]
-[![AWS][aws-badge]]
-[]\![GraphQL][graphgl-badge]()]
+[![Solidity][https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black]]
+[![AWS][https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white]]
+[![GraphQL][https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=whitee]]
 
 
 ![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jtpiland&show_icons=true)
