@@ -19,8 +19,8 @@ I'm a passionate craft beer brewer turned software developer. I love working wit
 
 ## Contact Me:
 
-[![LinkedIn Badge][ https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8]](https://www.linkedin.com/in/jacob-piland/)
-[![Gmail Badge][https://img.shields.io/badge/-piland.jacob@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piland.jacob@gmail.com]](mailto:piland.jacob@gmail.com)
+[![LinkedIn Badge][linkedin-badge]](https://www.linkedin.com/in/jacob-piland/)
+[![Gmail Badge][gmail-badge]](mailto:piland.jacob@gmail.com)
 
 ## Languages:
 
